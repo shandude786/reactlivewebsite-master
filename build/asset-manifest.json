@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite-master/static/css/main.7a815947.chunk.css",
+    "main.js": "/reactlivewebsite-master/static/js/main.3e51c169.chunk.js",
+    "main.js.map": "/reactlivewebsite-master/static/js/main.3e51c169.chunk.js.map",
+    "runtime-main.js": "/reactlivewebsite-master/static/js/runtime-main.67f74c7d.js",
+    "runtime-main.js.map": "/reactlivewebsite-master/static/js/runtime-main.67f74c7d.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactlivewebsite-master/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.604bbc28.chunk.js": "/reactlivewebsite-master/static/js/2.604bbc28.chunk.js",
+    "static/js/2.604bbc28.chunk.js.map": "/reactlivewebsite-master/static/js/2.604bbc28.chunk.js.map",
+    "index.html": "/reactlivewebsite-master/index.html",
+    "precache-manifest.8a3670cd1d97c6029a26e6f9f8c47cb8.js": "/reactlivewebsite-master/precache-manifest.8a3670cd1d97c6029a26e6f9f8c47cb8.js",
+    "service-worker.js": "/reactlivewebsite-master/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/reactlivewebsite-master/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.7a815947.chunk.css.map": "/reactlivewebsite-master/static/css/main.7a815947.chunk.css.map",
+    "static/js/2.604bbc28.chunk.js.LICENSE.txt": "/reactlivewebsite-master/static/js/2.604bbc28.chunk.js.LICENSE.txt",
+    "static/media/android.jpeg": "/reactlivewebsite-master/static/media/android.19a2e0ea.jpeg",
+    "static/media/app.jpeg": "/reactlivewebsite-master/static/media/app.70cea92a.jpeg",
+    "static/media/digital.jpeg": "/reactlivewebsite-master/static/media/digital.ac8f6f9a.jpeg",
+    "static/media/hero-img.png": "/reactlivewebsite-master/static/media/hero-img.619f0cc8.png",
+    "static/media/img2.svg": "/reactlivewebsite-master/static/media/img2.e981619f.svg",
+    "static/media/marketing.jpg": "/reactlivewebsite-master/static/media/marketing.2eed95a2.jpg",
+    "static/media/s1.jpg": "/reactlivewebsite-master/static/media/s1.1192a86d.jpg",
+    "static/media/software.jpeg": "/reactlivewebsite-master/static/media/software.43049cae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f74c7d.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.604bbc28.chunk.js",
+    "static/css/main.7a815947.chunk.css",
+    "static/js/main.3e51c169.chunk.js"
+  ]
+}
